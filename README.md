@@ -5,7 +5,7 @@ This repository contains an automation testing framework using the Page Factory 
 ## 📁 Clone the Repository
 
 ```bash
-git clone https://github.com/farhadcu/POM_FM.git
+git clone https://github.com/farhadcu/PFM_FM.git
 ```
 
 ## ⚙️ Environment Setup
