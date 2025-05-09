@@ -1,6 +1,6 @@
-# POM_FM Automation Framework
+# Swag Labs PFM Project Using Java, Selenium, TestNG and Allure Report Generates
 
-This repository contains an automation testing framework using the Page Object Model (POM) design pattern with TestNG and Allure reporting. Follow the setup instructions below to get started.
+This repository contains an automation testing framework using the Page Factory Model (PFM) design pattern with TestNG and Allure reporting for Swag Labs (https://www.saucedemo.com/). Follow the setup instructions below to get started.
 
 ## 📁 Clone the Repository
 
@@ -92,4 +92,4 @@ This will launch a browser window displaying the Allure report.
 
 ---
 
-Thank you for your patience and contribution to this project!
+Thank you for your patience!
